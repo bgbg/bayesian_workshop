@@ -1,0 +1,12 @@
+name: bayesian_workshop
+channels:
+  - conda-forge
+dependencies:
+  - pymc
+  - numpy
+  - matplotlib
+  - jupyter
+  - pandas
+  - graphviz
+  - seaborn
+  - scipy

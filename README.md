@@ -45,8 +45,10 @@ To run the notebooks provided in this workshop, you'll need to set up a conda en
 Alternatively, you can use an IDE like PyCharm or VSCode to run the notebooks. I'll be using PyCharm in this workshop.
 
 2.	Open the notebook 00_intro_to_bayesian_update.ipynb.
-	3.	Run all the cells to make sure everything works as expected.
-	4.	If you encounter any issues, ensure that all the dependencies are installed and that graphviz is correctly set up.
+
+3.	Run all the cells to make sure everything works as expected.
+
+4.	If you encounter any issues, ensure that all the dependencies are installed and that graphviz is correctly set up.
 
 ## Contact
 
